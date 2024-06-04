@@ -1,0 +1,6 @@
+Microcontroller: LoLin NodeMCU ESP8266 V3
+Sensors: BME680, NEO-6M, Adafruit MPU6050, Adafruit GUVA-S12SD
+Data Components: APC220, OpenLog Data Logger
+Power Components: TP4056, 3.7V LiPo Battery
+Misc: SPST Switch, LED, Buzzer, Jumper Wires, Wire Splitters
+Planned Additional Components: ESP32-Cam

@@ -1,0 +1,6 @@
+Microcontroller: Arduino Uno
+Sensors: FlyingFish MQ7, DHT22, MPX4115A, Thermistor, NEO-6M, Adafruit MPU6050
+Data Components: APC220, OpenLog Data Logger
+Power Components: 9V Duracell
+Misc: SPST Switch, Jumper Wires
+Planned Additional Components: BMP280, Buzzer
